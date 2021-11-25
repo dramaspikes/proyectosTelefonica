@@ -1,0 +1,57 @@
+{
+    "objectid": "Phonebook",
+    "owner": {
+        "objectid": "Owner Info",
+        "phone": "9742881928",
+        "name": "Alex Pozo",
+        "title": "Profesor",
+        "age": 28,
+        "address": {
+            "objectid": "ownerAddress",
+            "street": "Rúa de San Lourenzo, 43",
+            "city": "Santiago de Compostela",
+            "state": "Galicia"
+        }
+    },
+    "contacts": [{
+        "objectid": "Contact0",
+        "phone": "684569382",
+        "name": "Carla Fernández",
+        "title": "Camarera",
+        "age": 34,
+        "address": {
+            "objectid": "contact1Address",
+            "street": "Gran Vía, 108 3D",
+            "city": "Madrid",
+            "state": "Madrid"
+        }
+    },
+    
+    {
+        "objectid": "Contact1",
+        "phone": "2017436271",
+        "name": "Kazim Algrabi",
+        "title": "Scrum Master",
+        "age": 45,
+        "address": {
+            "objectid": "contact2Address",
+            "street": "206 7th Ave.",
+            "city": "New York City",
+            "state": "New York"
+        }
+    },
+    {
+        "objectid": "Contact2",
+        "phone": "8015784109",
+        "name": "Kiki Freedman",
+        "title": "CFO Marian Co.",
+        "age": 50,
+        "address": {
+            "objectid": "contact3Address",
+            "street": "87 Main St.",
+            "city": "Cupertino",
+            "state": "California"
+            }
+    }
+    ]
+}

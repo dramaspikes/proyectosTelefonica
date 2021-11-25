@@ -1,0 +1,15 @@
+* {
+    background-color: bisque;
+    color: chocolate;
+    text-align: center;
+}
+
+p {
+    margin: 2rem;
+    font-weight: bold;
+}
+
+button {
+    background-color: cornflowerblue;
+    color: darkblue;
+}

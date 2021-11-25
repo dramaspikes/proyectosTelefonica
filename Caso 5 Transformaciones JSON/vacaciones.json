@@ -1,0 +1,35 @@
+{
+    "viajero":{
+        "nombre":"Tyler",
+        "edad":29,
+        "intereses":["programación", "comida vegana", "derechos humanos", "circo"]
+    },
+    "paísesVisitados": ["Romanía", "Italia", "Turquía", "EEUU"],
+    "descrpciones":[
+        {
+        "País":"Romanía",
+        "Año":2017,
+        "Duración":"2 semanas",
+        "Valoración":"***"
+        },
+        {
+        "País":"Italia",
+        "Año":2018,
+        "Duración":"3 meses",
+        "Valoración":"****"
+        },
+        {
+        "País":"Turquía",
+        "Año":2013,
+        "Duración":"1 semana",
+        "Valoración":"****"
+        },
+        {
+        "País":"EEUU",
+        "Año":1992,
+        "Duración":"Media vida",
+        "Valoración":"**"
+        }
+    ]
+}
+    
