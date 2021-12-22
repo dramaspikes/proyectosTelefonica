@@ -1,0 +1,15 @@
+*{
+    background-color: darkgrey;
+    color: purple;
+}
+
+.status-correct {
+    font-weight: bold;
+    color: rebeccapurple;
+    background-color: lightgreen;
+}
+
+.userStatus_passed span{
+    background-color: lightgreen;
+    color: royalblue;
+}

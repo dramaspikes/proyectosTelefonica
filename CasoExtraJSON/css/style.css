@@ -1,0 +1,20 @@
+*{
+    background-color: aliceblue;
+}
+
+h1, main {
+    text-align: center;
+}
+
+
+label, select {
+    margin-top: 25px;
+}
+
+select{
+    border-radius: 5rem;
+}
+p {
+    margin: 10px;
+    font-weight:300;
+}

@@ -1,0 +1,146 @@
+[
+    {
+        "id":"1",
+        "text": "What is 2+2?",
+        "answers": [
+            {
+                "id":"A",
+                "text": "5"
+            },
+            {
+                "id":"B",
+                "text": "4"
+            },
+            {
+                "id":"C",
+                "text": "44"
+            },
+            {
+                "id":"D",
+                "text": "55"
+            }
+        ],
+        "correctAnswer": "B",
+        "status":"incorrect"
+    },
+    {
+        "id":"2",
+        "text": "What color is the sky?",
+        "answers": [
+            {
+                "id":"A",
+                "text": "Pink"
+            },
+            {
+                "id":"B",
+                "text": "Green"
+            },
+            {
+                "id":"C",
+                "text": "Blue"
+            },
+            {
+                "id":"D",
+                "text": "Yellow"
+            }
+        ],
+        "correctAnswer": "C",
+        "status":"incorrect"
+    },
+    {
+        "id":"3",
+        "text": "How do you say 'thank you' in standard Galician?",
+        "answers": [
+            {
+                "id":"A",
+                "text": "Grazas"
+            },
+            {
+                "id":"B",
+                "text": "Gracias"
+            },
+            {
+                "id":"C",
+                "text": "Obrigado/a"
+            },
+            {
+                "id":"D",
+                "text": "Grazie"
+            }
+        ],
+        "correctAnswer": "A",
+        "status":"incorrect"
+    },
+    {
+        "id":"4",
+        "text": "Who are you?",
+        "answers": [
+            {
+                "id":"A",
+                "text": "Who am I?"
+            },
+            {
+                "id":"B",
+                "text": "Sorry?"
+            },
+            {
+                "id":"C",
+                "text": "My own worst enemy."
+            },
+            {
+                "id":"D",
+                "text": "24601"
+            }
+        ],
+        "correctAnswer": "C",
+        "status":"incorrect"
+    },
+    {
+        "id":"5",
+        "text": "When?",
+        "answers": [
+            {
+                "id":"A",
+                "text": "Now"
+            },
+            {
+                "id":"B",
+                "text": "Never"
+            },
+            {
+                "id":"C",
+                "text": "Tomorrow"
+            },
+            {
+                "id":"D",
+                "text": "Three years ago last Tuesday"
+            }
+        ],
+        "correctAnswer": "A",
+        "status":"incorrect"
+    },
+    {
+        "id":"6",
+        "text": "When is the winter solstice?",
+        "answers": [
+            {
+                "id":"A",
+                "text": "February 12th"
+            },
+            {
+                "id":"B",
+                "text": "January 31st"
+            },
+            {
+                "id":"C",
+                "text": "December 19th"
+            },
+            {
+                "id":"D",
+                "text": "December 21st"
+            }
+        ],
+        "correctAnswer": "D",
+        "status":"incorrect"
+    }
+]

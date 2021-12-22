@@ -1,0 +1,21 @@
+*{
+    background-color: antiquewhite;
+    color: brown;
+}
+
+label{
+    margin-left: 0.3rem;
+}
+
+#friendInfo{
+    border: 2px solid brown;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+#search{
+    border-color: brown;
+    border-radius: 1rem;
+    padding: 0rem 0.2rem;
+}

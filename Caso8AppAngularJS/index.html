@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="friendsForm">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jugando con angularjs</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="scripts/angular.min.js"></script>
+    <script type="text/javascript" src="scripts/script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Playing with AngularJS</h1>
+    </header>
+    <main ng-controller="simpleController">
+        <label for="search">I have {{counter}} friends. They are:</label>
+        <input type="text" name="search" id="search" placeholder="filter friends" ng-model="search"> 
+        <br>
+        <div id="friendInfo">
+            <div ng-repeat="person in list | filter: search">
+                {{person.position}} {{person.name}} who is {{person.age}} years old.
+            </div>
+        </div>
+    </main> 
+</body>
+</html>

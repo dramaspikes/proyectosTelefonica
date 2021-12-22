@@ -1,0 +1,99 @@
+[
+    {
+        "nome":"Oístes? unhas anotacións recompiladas",
+        "ano": "2018-2019",
+        "participantes": [
+            "Véronique", 
+            "Mirzam", 
+            "Tyler", 
+            "Natalia", 
+            "Nuria",
+            "Ánxel"
+        ],
+        "festivais":"Pataca Minuta 2019"
+    },
+    {
+        "nome":"coma en casa",
+        "ano": "2020",
+        "participantes": [ 
+            "Tyler"
+        ],
+        "festivais":"San Pedro Sen Paredes 2012"
+    },
+    {
+        "nome":"boas novas!/good news!",
+        "ano": "2020",
+        "participantes": [
+            "Véronique", 
+            "Tyler"
+        ],
+        "festivais":"Noites Alternas 2020"
+    },
+    {
+        "nome":"outono",
+        "ano": "2020",
+        "participantes": [
+            "Patrick",
+            "Ellen",
+            "Nuria",
+            "Aly", 
+            "Tyler"
+        ],
+        "festivais":""
+    },
+    {
+        "nome":"inverno",
+        "ano": "2021",
+        "participantes": [
+            "Miguel",
+            "Carly",
+            "Tyler"
+        ],
+        "festivais":""
+    },
+    {
+        "nome":"primavera",
+        "ano": "2021",
+        "participantes": [
+            "Natalia",
+            "José Antonio", 
+            "Tyler"
+        ],
+        "festivais":""
+    },
+    {
+        "nome":"unha noitiña de drag",
+        "ano": "2021",
+        "participantes": [
+            "Haus of Carmen", 
+            "Tyler"
+        ],
+        "festivais":""
+    },
+    {
+        "nome":"verán",
+        "ano": "2021",
+        "participantes": [
+            "Carly",
+            "Aly",
+            "José Antonio",
+            "Mirzam", 
+            "Tyler"
+        ],
+        "festivais":""
+    },
+    {
+        "nome":"outono 2.0",
+        "ano": "2021",
+        "participantes": [
+            "Carlota",
+            "Cora",
+            "José Antonio",
+            "Guido",
+            "Haus of Carmen", 
+            "Tyler"
+        ],
+        "festivais":"Noites Alternas 2021"
+    }
+]
+
