@@ -16,7 +16,7 @@ Caso5/Case5: Uses stringify and parse to carry out their respective actions on a
   
 Caso6/Case6: Uses JQuery to make text in fields change color on focus.
   
-Caso7/Case7: Uses JQuery to highlight <p> elements of more than 100 characters.
+Caso7/Case7: Uses JQuery to highlight \<p> elements of more than 100 characters.
   
 Caso8/Case8: Uses AngularJS Directives and AJAX to read data from a JSON object and filter it via a search field.
   
