@@ -4,7 +4,7 @@ These are various projects that I've put together for the Fundación Telefónica
 
 The main functionality of the programs are as follows:
 
-Caso1/Case1: DOM Manipulation - Obtains all <p> elements and alerts them, adds on a child <p> element.
+Caso1/Case1: DOM Manipulation - Obtains all \<p> elements and alerts them, adds on a child \<p> element.
 
 Caso2/Case2: Example JSON Structure
 
