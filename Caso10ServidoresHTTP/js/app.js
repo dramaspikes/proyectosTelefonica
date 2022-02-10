@@ -1,3 +1,5 @@
+// Caso10/Case10: Creates a Node.JS server and client which, when any file name is concatinated with the domain name, is able to retreive and serve that file. 
+
 var http = require('http')
 var fs = require('fs')
 var express = require('express');

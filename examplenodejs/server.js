@@ -1,27 +1,27 @@
-//Carga de los módulos requeridos para el programa
+//Loads in the modules required for the application
 var http = require("http");
 
 var fs = require("fs");
 
 var url = require("url");
-//Creación del servidor
+//Creation of server
 http.createServer(function (request, response) {
 
-    // Cogemos el path que nos ha entrado por la request
+    // Getting the path we received via request
 
     var pathname = url.parse(request.url).pathname;
-    // Leemos el fichero requerido para que sea enviado
+    // Reading the document required so it can be sent
     fs.readFile(pathname.substr(1), function (err, data) {
 
         if (err) {
             console.log(err);
-            // Página no encontrada
+            // Page not found
             // HTTP Status: 404 : NOT FOUND
             // Content Type: text/plain
             response.writeHead(404, {"Content-Type": "text/html"});
 
         }else{
-            // Página encontrada
+            // Page found
             // HTTP Status: 200 : OK
             // Content Type: text/plain
             response.writeHead(200, {"Content-Type": "text/html"});
@@ -29,7 +29,7 @@ http.createServer(function (request, response) {
             response.write(data.toString());
 
         }
-        // Enviamos la respuesta
+        // Sending the reply
         response.end();
     });
 }).listen(8081);

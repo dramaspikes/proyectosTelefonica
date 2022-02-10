@@ -1,3 +1,6 @@
+// Caso8/Case8: Uses AngularJS Directives and AJAX to read data from a JSON object and filter it via a search field.
+
+
 var app = angular.module("friendsForm", [])
 
 app.controller("simpleController", function($scope, $http){

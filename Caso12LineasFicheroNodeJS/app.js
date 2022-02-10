@@ -1,3 +1,6 @@
+// Caso12/Case12: Uses Node.JS to create a local file, count the lines present in the file, 
+// copy its contents into a new file, and delete the original file. 
+
 fs = require("fs");
 
 const content = "Hola caracola \nHola caracola \nHola caracola \nHola caracola";

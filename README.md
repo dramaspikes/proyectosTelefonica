@@ -4,8 +4,6 @@ These are various projects that I've put together for the Fundación Telefónica
 
 The main functionality of the programs are as follows:
 
-Caso1/Case1: DOM Manipulation - Obtains all \<p> elements and alerts them, adds on a child \<p> element.
-
 Caso2/Case2: Example JSON Structure
 
 Caso3/Case3: Reads an XML file via AJAX request and puts its contents on the main page, when button is pressed.
@@ -27,3 +25,7 @@ Caso10/Case10: Creates a Node.JS server and client which, when any file name is 
 Caso11/Case11: Uses event emitters in Node.JS to listen for user interaction with a sample radio station whose information is stored in a object. Upon opening the app, and some seconds later, a message is logged in the console.
   
 Caso12/Case12: Uses Node.JS to create a local file, count the lines present in the file, copy its contents into a new file, and delete the original file. 
+
+ExampleNodeJS: Creates a sample server.
+
+ExampleNodeJS2: Sets up a sample server to handle get and post requests with specific responses.

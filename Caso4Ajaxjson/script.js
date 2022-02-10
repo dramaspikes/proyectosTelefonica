@@ -1,3 +1,5 @@
+// Caso4/Case4: Reads a JSON file via AJAX request and puts its contents on the main page, when button is pressed.
+
 function sendRequest(){
     var xmlRequest;
 

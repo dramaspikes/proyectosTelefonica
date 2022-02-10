@@ -1,3 +1,6 @@
+// Caso6/Case6: Uses JQuery to make text in fields change color on focus.
+
+
 $(document).ready(function(){
     
     var q = $("h1");
@@ -12,7 +15,7 @@ $(document).ready(function(){
         $(this).css("color", "black");
     }
 
-    // Estas dos funciones no entraban el el caso, pero quería probarlas. Cambian el color del h1 on hover y el tamaño con click.
+    // These two functions weren't in the original assignment, but I wanted to try them. They change the color of h1 on hover and the size on click.
     function goGreen(){
         $(this).css("color", "green");
     }
@@ -37,7 +40,7 @@ $(document).ready(function(){
 
 
 
-    // Todo esto fue código de prueba, que quiero mantener aquí para ver la evolución de mis pensamientos.
+    // This was test code, which I want to leave here to see the evolution of my thinking.
     // q.mouseenter(goGreen);
     // q.mouseleave(goBlack);
     // var y = $("input");

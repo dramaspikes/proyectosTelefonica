@@ -1,3 +1,6 @@
+// Caso7/Case7: Uses JQuery to highlight \<p> elements of more than 100 characters.
+
+
 $(document).ready(function(){
 
     var p = $("p");

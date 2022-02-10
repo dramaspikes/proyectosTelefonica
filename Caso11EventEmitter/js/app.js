@@ -1,3 +1,6 @@
+// Caso11/Case11: Uses event emitters in Node.JS to listen for user interaction with a sample radio station 
+// whose information is stored in a object. Upon opening the app, and some seconds later, a message is logged in the console.
+
 const Station = require("./radio");
 const station = new Station();
 

@@ -1,3 +1,5 @@
+// Caso5/Case5: Uses stringify and parse to carry out their respective actions on a JSON object and JavaScript object, showing results in the console.
+
 console.log("Howdy, partner!")
 
 function loadObject(){

@@ -1,3 +1,5 @@
+// Sets up a sample server to handle get and post requests with specific repsonses.
+
 var express = require("express");
 var http = require("http");
 var bodyParser = require("body-parser");

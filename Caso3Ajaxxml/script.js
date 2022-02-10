@@ -1,3 +1,6 @@
+// Caso3/Case3: Reads an XML file via AJAX request and puts its contents on the main page, when button is pressed.
+
+
 function loadXMLDoc(){
 
   var xmlhttp;
